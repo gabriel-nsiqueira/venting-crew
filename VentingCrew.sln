@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VentingCrew", "VentingCrew\VentingCrew.csproj", "{A964FB9D-5276-4AE8-BF7C-A89F086AE692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Itch-Debug|AnyCPU = Itch-Debug|AnyCPU
+		Itch-Release|AnyCPU = Itch-Release|AnyCPU
+		Steam-Debug|AnyCPU = Steam-Debug|AnyCPU
+		Steam-Release|AnyCPU = Steam-Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A964FB9D-5276-4AE8-BF7C-A89F086AE692}.Itch-Debug|AnyCPU.ActiveCfg = Itch-Debug|Any CPU
+		{A964FB9D-5276-4AE8-BF7C-A89F086AE692}.Itch-Debug|AnyCPU.Build.0 = Itch-Debug|Any CPU
+		{A964FB9D-5276-4AE8-BF7C-A89F086AE692}.Itch-Release|AnyCPU.ActiveCfg = Itch-Release|Any CPU
+		{A964FB9D-5276-4AE8-BF7C-A89F086AE692}.Itch-Release|AnyCPU.Build.0 = Itch-Release|Any CPU
+		{A964FB9D-5276-4AE8-BF7C-A89F086AE692}.Steam-Debug|AnyCPU.ActiveCfg = Steam-Debug|Any CPU
+		{A964FB9D-5276-4AE8-BF7C-A89F086AE692}.Steam-Debug|AnyCPU.Build.0 = Steam-Debug|Any CPU
+		{A964FB9D-5276-4AE8-BF7C-A89F086AE692}.Steam-Release|AnyCPU.ActiveCfg = Steam-Release|Any CPU
+		{A964FB9D-5276-4AE8-BF7C-A89F086AE692}.Steam-Release|AnyCPU.Build.0 = Steam-Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBF4CD8F-0976-4EF2-9435-2D13CA56AC8E}
+	EndGlobalSection
+EndGlobal
